@@ -13,9 +13,9 @@ www.amrita.edu/compneuro
 Readme for LFPsim
 =================
 
-1. Copy all LFPsim files and the directory into your NEURON model folder downloaded from model db. If the .mod files of neuronal model are not in the main directory, you may have to copy lfp.mod and mea.mod to the mechanism directory.
+1. Copy all LFPsim files and the directory into your NEURON model folder downloaded from ModelDb. Copy lfp.mod and mea.mod from LFPsim to the mechanism directory of the NEURON model.
 
-2. Compile the model; if you had already compiled the model without LFPsim, include the LFPsim mod files and re-compile using "nrnivmodl".
+2. Compile the model; if you had already compiled the model without LFPsim, include the LFPsim mod files and re-compile using "nrnivmodl" or "mknrndll".
 
 3. Load your neuron or network model in NEURON.  
 
