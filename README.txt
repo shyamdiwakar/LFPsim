@@ -10,10 +10,10 @@ www.amrita.edu/compneuro
 */
 
 
-Readme for LFPsim
+README for LFPsim
 =================
 
-1. Copy all LFPsim files and the directory into your NEURON model folder downloaded from ModelDb. Copy lfp.mod and mea.mod from LFPsim to the mechanism directory of the NEURON model.
+1. Copy all LFPsim files and the directory into your NEURON model directory downloaded from ModelDb. Copy lfp.mod and mea.mod from LFPsim to the mechanism directory of the NEURON model.
 
 2. Compile the model; if you had already compiled the model without LFPsim, include the LFPsim mod files and re-compile using "nrnivmodl" or "mknrndll".
 
@@ -24,3 +24,4 @@ Readme for LFPsim
 5. Set the electrode properties in the GUI. 
 
 6. Run the simulation to reconstruct LFP.
+
