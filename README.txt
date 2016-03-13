@@ -1,6 +1,6 @@
 /*LFPsim - Simulation scripts to compute Local Field Potentials (LFP) of cable compartmental models of neuron and network implemented in NEURON simulation environment.
 
-LFPsim works reliably on biophysically detailed multi-compartmental neurons with some or all active channels. We
+LFPsim works reliably on biophysically detailed multi-compartmental neurons with some or all active channels. 
 
 Last updated 12-March-2016
 Developed by : Harilal Parasuram & Shyam Diwakar
@@ -10,8 +10,8 @@ www.amrita.edu/compneuro
 */
 
 
-Readme for LFP simulation tool
-================================
+Readme for LFPsim
+=================
 
 1. Copy all LFPsim files and the directory into your NEURON model folder downloaded from model db. If the .mod files of neuronal model are not in the main directory, you may have to copy lfp.mod and mea.mod to the mechanism directory.
 
