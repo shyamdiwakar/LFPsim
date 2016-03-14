@@ -1,15 +1,15 @@
-/*LFPsim - Simulation scripts to compute Local Field Potentials (LFP) of cable compartmental models of neuron and network implemented in NEURON simulation environment.
+% LFPsim - Simulation scripts to compute Local Field Potentials (LFP) generated with cable compartmental models of neuron and network implemented in NEURON simulation environment.
 
-LFPsim works reliably on biophysically detailed multi-compartmental neurons with some or all active channels. 
+% LFPsim works reliably on biophysically detailed multi-compartmental neurons with some or all active channels. 
 
-This plot_MEA.m file helps to plot the traces in a multi-electrode array like format. Execute after running LFPsim. 
+% This plot_MEA.m file helps to plot the traces in a multi-electrode array like format. Execute after running LFPsim. 
 
-Last updated 12-March-2016
-Developed by : Harilal Parasuram & Shyam Diwakar
-Computational Neuroscience & Neurophysiology Lab, School of Biotechnology, Amrita University, India.
-Email: harilalp@am.amrita.edu; shyam@amrita.edu
-www.amrita.edu/compneuro 
-*/
+% Last updated 12-March-2016
+% Developed by : Harilal Parasuram & Shyam Diwakar
+% Computational Neuroscience & Neurophysiology Lab, School of Biotechnology, Amrita University, India.
+% Email: harilalp@am.amrita.edu; shyam@amrita.edu
+% www.amrita.edu/compneuro 
+
 
 
 load MEA.dat
