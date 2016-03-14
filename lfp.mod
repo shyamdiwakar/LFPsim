@@ -1,7 +1,7 @@
 : lfp.mod
 
 COMMENT
-LFPsim - Simulation scripts to compute Local Field Potentials (LFP) generated with cable compartmental models of neuron and network implemented in NEURON simulation environment.
+LFPsim - Simulation scripts to compute Local Field Potentials (LFP) from cable compartmental models of neurons and networks implemented in NEURON simulation environment.
 
 LFPsim works reliably on biophysically detailed multi-compartmental neurons with some or all active channels. We
 
